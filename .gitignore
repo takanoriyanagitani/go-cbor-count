@@ -24,3 +24,4 @@ go.work.sum
 # env file
 .env
 *.swp
+cmd/cbor2count/cbor2array2count/cbor2array2count
